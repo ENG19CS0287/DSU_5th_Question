@@ -8,3 +8,5 @@ def palin():
 palin()
 hhh
 this is the program for palindrome
+
+this is student version
