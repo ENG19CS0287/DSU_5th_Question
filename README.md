@@ -6,4 +6,5 @@ def palin():
   print("yes its palindrome")
   
 palin()
+hhh
 this is the program for palindrome
